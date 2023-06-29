@@ -1,0 +1,32 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJhaG1hZGFkZWwxMjM0NTYxMEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZX0sImh0dHBzOi8vYXBpLm9wZW5haS5jb20vYXV0aCI6eyJ1c2VyX2lkIjoidXNlci1WRXBXMExDUG1FSUJwckNjcmNzRURXaGcifSwiaXNzIjoiaHR0cHM6Ly9hdXRoMC5vcGVuYWkuY29tLyIsInN1YiI6Imdvb2dsZS1vYXV0aDJ8MTA0MTg4ODAzOTYxNTk4MjgzNjc5IiwiYXVkIjpbImh0dHBzOi8vYXBpLm9wZW5haS5jb20vdjEiLCJodHRwczovL29wZW5haS5vcGVuYWkuYXV0aDBhcHAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY4MDg5MjY3MSwiZXhwIjoxNjgyMTAyMjcxLCJhenAiOiJUZEpJY2JlMTZXb1RIdE45NW55eXdoNUU0eU9vNkl0RyIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgbW9kZWwucmVhZCBtb2RlbC5yZXF1ZXN0IG9yZ2FuaXphdGlvbi5yZWFkIG9mZmxpbmVfYWNjZXNzIn0.Tj9yIAy6M5uw0QFmA3cbyGaUzl-BneC1yNCMzA-1QglUTRJNycBKrUfw4Xlm-5E0g5XHpMPwklN2dRVKC4dtpqfYapHdR1Lu19uKeMkhMfRX9D3Yn4jtLnuehEHII4rMMUXnoe1nkFCac8b3M-iIlA5Rvi7MQUFaO_6joc11Sos2-y9k5RNDZHYWuVxaz-DX6NECcZkGOjHle7Iagf67kJ09BR3BaiPIpsW-3yY-KHnWm1yuzbRqxEy2DbCI9jg0wVfD5XPlM2YwLewe90ydntzK7wT3-yeUPjFPG3gI_zK2iC9WTDPvHoug0dDhorkcLaKBF_80MroXrshziuHOLQ" />
+    <option name="expireTime" value="2023-05-17T02:47:05.001Z" />
+    <option name="apiKey" value="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" />
+    <contentStatesAll>
+      <list>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>EasyCode</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>ChatGPT</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>2</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>3</order>
+          <enable>true</enable>
+          <content>Online ChatGPT</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStatesAll>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjg4MDQxODU3LCJpYXQiOjE2ODgwNDA5NTcsImp0aSI6IjA5OWIxYzkyMjFlMjRkOTdiMTU5OWZhZTNlNzEwMGU1IiwidXNlcl9pZCI6MjM1NDEzfQ.7scTfUsyFcOJEvAvavEx4p5zTBtSUY6es1yl8vSkmEo" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY4OTI1MDU1NywiaWF0IjoxNjg4MDQwOTU3LCJqdGkiOiJhOWIwNjliNTY4YWQ0MWM4OWE5ZGMwZGYyNWNmNmE4MSIsInVzZXJfaWQiOjIzNTQxM30.Eju-PQUv2XSbpvWt_X6csIK5XaoX7ergLgFBmpIJwXo" />
+  </component>
+</application>

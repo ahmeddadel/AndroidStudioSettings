@@ -1,0 +1,17 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="213.7172.25.2113.9123335" />
+      <item value="221.6008.13.2211.9619390" />
+      <item value="cmdline-tools;latest#9.0" />
+      <item value="emulator#32.1.12" />
+      <item value="platform-tools#34.0.1" />
+      <item value="skiaparser;3#2" />
+      <item value="system-images;android-31;google_apis;x86_64#12" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="AI-212.5712.43.2112.8815526" />
+    <option name="LAST_TIME_CHECKED" value="1688040999583" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+</application>

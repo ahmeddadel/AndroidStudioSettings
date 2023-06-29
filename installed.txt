@@ -1,0 +1,21 @@
+ChatGPT
+Dart
+Dummy Text Generator
+Key Promoter X
+co.bito.bito-intellij
+com.github.airsaid.androidlocalize
+com.github.copilot
+com.github.lppedd.idea-conventional-commit
+com.intellij.marketplace
+com.mallowigi
+com.mroche.JsonHelper
+com.squareup.sqldelight
+com.yemreak.DarkCode-Theme
+io.autofill.kotlin.kotlin-auto-fill
+io.flutter
+io.galagutskiy.symbol-idea-plugin
+izhangzhihao.rainbow.brackets
+manjaro.mpb
+org.igu.plugins.bettercomments
+org.jetbrains.kotlin
+wu.seal.tool.jsontokotlin
